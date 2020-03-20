@@ -44,3 +44,7 @@ Adding `--watch` to the script in `package.json` allows for npm run dev to run, 
 
 `npm i --save redux react-redux redux-thunk redux-devtools-extension`
 `npm i --save axios`
+
+## Alerts
+
+`npm i --save react-alert react-alert-template-basic react-transition-group`
