@@ -39,3 +39,8 @@ The whole application has to be rebuilt upon any changes,
 otherwise the main.js will not change, and therefore changes will not be applied.
 
 Adding `--watch` to the script in `package.json` allows for npm run dev to run, everytime a change in files has occured, therefore recompiling the application, therefore showing in the browser straight away.
+
+## Redux
+
+`npm i --save redux react-redux redux-thunk redux-devtools-extension`
+`npm i --save axios`
